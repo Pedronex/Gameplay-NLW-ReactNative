@@ -56,7 +56,7 @@ Recordando que es necesario tener una cuenta [Figma](http://figma.com/) para acc
 
 ## 📝 Licencia
 
-Este proyecto tiene una licencia MIT. Consulte el archivo [LICENSE](LICENSE.md) para más detalles.
+Este proyecto tiene una licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 
