@@ -1,7 +1,11 @@
 {
   "expo": {
-    "name": "gameplay",
-    "slug": "gameplay",
+    "name": "Gameplaynex",
+    "slug": "gameplaynex",
+    "description": "Projeto criado no NLW (Next Level Week), com algumas adaptações",
+    "primaryColor": "#070B24",
+    "privacy": "public",
+    "githubUrl": "https://github.com/Pedronex/Gameplay-NLW-ReactNative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,17 +15,22 @@
       "backgroundColor": "#070B24"
     },
     "updates": {
+      "checkAutomatically": "ON_LOAD",
       "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pedronex.Gameplaynex",
+      "buildNumber": "1.0.0"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.pedronex.Gameplaynex",
+      "versionCode": 1
     },
     "androidNavigationBar": { "visible": "sticky-immersive" },
     "web": {
