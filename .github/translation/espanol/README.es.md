@@ -16,7 +16,7 @@
 
 ## 💬 Lenguas
 
-#### Mudar para português: <kbd>[<img title="Português" alt="Português" src="https://imgur.com/saCuWe2.png" width="22">](../../README.md)</kbd>
+#### Mudar para português: <kbd>[<img title="Português" alt="Português" src="https://imgur.com/saCuWe2.png" width="22">](../../../README.md)</kbd>
 
 #### Switch to english: <kbd>[<img title="Español" alt="Español" src="https://raw.githubusercontent.com/iuricode/recursos-gratuitos/master/flags/eua.png" width="22">](../espanol/README.es.md)</kbd>
 
