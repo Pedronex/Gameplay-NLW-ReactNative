@@ -32,7 +32,7 @@
       "package": "com.pedronex.Gameplaynex",
       "versionCode": 1
     },
-    "androidNavigationBar": { "visible": "sticky-immersive" },
+    "androidNavigationBar": { "backgroundColor": "#070B24" },
     "web": {
       "favicon": "./assets/favicon.png"
     }
